@@ -1,0 +1,8 @@
+let productName: string = "Laptop";
+let message: string = 'Hello World';
+let price: number = 999.99;
+let quantity: number = 5;
+let isInStock: boolean = true;
+let isOnSale: boolean = false;
+let emptyValue: null = null;
+let notAssigned: undefined = undefined;
